@@ -1,0 +1,156 @@
+
+
+ initTransaction: 
+REQUEST
+wsInitTransactionInput::__set_state(array(
+   'wSTransactionType' => 'TR_NORMAL_WS',
+   'commerceId' => NULL,
+   'buyOrder' => '32',
+   'sessionId' => '5db8a59c9c2dd',
+   'returnURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=getResult',
+   'finalURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=end',
+   'transactionDetails' => 
+  wsTransactionDetail::__set_state(array(
+     'sharesAmount' => NULL,
+     'sharesNumber' => NULL,
+     'amount' => '2000.00000000',
+     'commerceCode' => '597020000541',
+     'buyOrder' => '32',
+  )),
+   'wPMDetail' => NULL,
+)) 
+RESPONSE
+wsInitTransactionOutput::__set_state(array(
+   'token' => 'e2d53a3f17346233c5aae33442b73f8bec30778998fd45948bef68aa01af597c',
+   'url' => 'https://webpay3gint.transbank.cl/webpayserver/initTransaction',
+)) 
+
+
+ initTransaction: 
+REQUEST
+wsInitTransactionInput::__set_state(array(
+   'wSTransactionType' => 'TR_NORMAL_WS',
+   'commerceId' => NULL,
+   'buyOrder' => '32',
+   'sessionId' => '5db8a6201726a',
+   'returnURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=getResult',
+   'finalURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=end',
+   'transactionDetails' => 
+  wsTransactionDetail::__set_state(array(
+     'sharesAmount' => NULL,
+     'sharesNumber' => NULL,
+     'amount' => '2000.00000000',
+     'commerceCode' => '597020000541',
+     'buyOrder' => '32',
+  )),
+   'wPMDetail' => NULL,
+)) 
+RESPONSE
+wsInitTransactionOutput::__set_state(array(
+   'token' => 'edef8d942a518ef2b52cbd4db65b5b552574841213b332a7d231fd0b822ae3fb',
+   'url' => 'https://webpay3gint.transbank.cl/webpayserver/initTransaction',
+)) 
+
+
+ initTransaction: 
+REQUEST
+wsInitTransactionInput::__set_state(array(
+   'wSTransactionType' => 'TR_NORMAL_WS',
+   'commerceId' => NULL,
+   'buyOrder' => '33',
+   'sessionId' => '5dc8b20303768',
+   'returnURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=getResult',
+   'finalURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=end',
+   'transactionDetails' => 
+  wsTransactionDetail::__set_state(array(
+     'sharesAmount' => NULL,
+     'sharesNumber' => NULL,
+     'amount' => '2200.00000000',
+     'commerceCode' => '597020000541',
+     'buyOrder' => '33',
+  )),
+   'wPMDetail' => NULL,
+)) 
+RESPONSE
+wsInitTransactionOutput::__set_state(array(
+   'token' => 'eb6629be9f942a13e422afaee11832bb094aab01c5e6bb33150f9098f65fd456',
+   'url' => 'https://webpay3gint.transbank.cl/webpayserver/initTransaction',
+)) 
+
+
+ initTransaction: 
+REQUEST
+wsInitTransactionInput::__set_state(array(
+   'wSTransactionType' => 'TR_NORMAL_WS',
+   'commerceId' => NULL,
+   'buyOrder' => '34',
+   'sessionId' => '5dc8c7a7ac37f',
+   'returnURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=getResult',
+   'finalURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=end',
+   'transactionDetails' => 
+  wsTransactionDetail::__set_state(array(
+     'sharesAmount' => NULL,
+     'sharesNumber' => NULL,
+     'amount' => '2856.00000000',
+     'commerceCode' => '597020000541',
+     'buyOrder' => '34',
+  )),
+   'wPMDetail' => NULL,
+)) 
+RESPONSE
+wsInitTransactionOutput::__set_state(array(
+   'token' => 'e660e226db560fe38882d1b81929cca09239aa8ff70fbd0c77a38445084611ef',
+   'url' => 'https://webpay3gint.transbank.cl/webpayserver/initTransaction',
+)) 
+
+
+ initTransaction: 
+REQUEST
+wsInitTransactionInput::__set_state(array(
+   'wSTransactionType' => 'TR_NORMAL_WS',
+   'commerceId' => NULL,
+   'buyOrder' => '35',
+   'sessionId' => '5dd17383b4df1',
+   'returnURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=getResult',
+   'finalURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=end',
+   'transactionDetails' => 
+  wsTransactionDetail::__set_state(array(
+     'sharesAmount' => NULL,
+     'sharesNumber' => NULL,
+     'amount' => '2600.00000000',
+     'commerceCode' => '597020000541',
+     'buyOrder' => '35',
+  )),
+   'wPMDetail' => NULL,
+)) 
+RESPONSE
+wsInitTransactionOutput::__set_state(array(
+   'token' => 'ed932add6c017bbc1dbd6660d3d26d60944a6832567ed8e5e2efe95c57eb541f',
+   'url' => 'https://webpay3gint.transbank.cl/webpayserver/initTransaction',
+)) 
+
+
+ initTransaction: 
+REQUEST
+wsInitTransactionInput::__set_state(array(
+   'wSTransactionType' => 'TR_NORMAL_WS',
+   'commerceId' => NULL,
+   'buyOrder' => '36',
+   'sessionId' => '5dd52d74239d0',
+   'returnURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=getResult',
+   'finalURL' => 'http://www.aseotalca.cl/tienda/metodopago/webpay/tbk-normal.php?action=end',
+   'transactionDetails' => 
+  wsTransactionDetail::__set_state(array(
+     'sharesAmount' => NULL,
+     'sharesNumber' => NULL,
+     'amount' => '2000.00000000',
+     'commerceCode' => '597020000541',
+     'buyOrder' => '36',
+  )),
+   'wPMDetail' => NULL,
+)) 
+RESPONSE
+wsInitTransactionOutput::__set_state(array(
+   'token' => 'e87cc10d9056524836a10beb86ec0d964519e9f6fbe36b4d1fe043b6c2536e46',
+   'url' => 'https://webpay3gint.transbank.cl/webpayserver/initTransaction',
+)) 

@@ -1,0 +1,9 @@
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://www.dominio.cl/tienda/$1 [R,L]
+
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^producto/([0-9]+)-(.*)$ producto_detalle.php?p_id=$1&slug=$2
+RewriteRule ^categoria/([0-9]+)-(.*)$ categorias.php?c_id=$1&slug=$2

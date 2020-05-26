@@ -1,0 +1,179 @@
+[29-Oct-2019 03:34:47 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 03:34:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 03:35:48 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 03:35:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 15:42:27 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 15:42:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 16:33:02 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 16:33:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:16:24 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:16:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:38 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:40 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:40 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:42 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:42 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:19:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:16 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:17 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:39 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:39 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:40 UTC] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:23:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 12
+[29-Oct-2019 20:35:23 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:35:23 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:35:23 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:35:26 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:35:26 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:35:26 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:35:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:38:59 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:38:59 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:38:59 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:39:57 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:39:57 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:39:57 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:39:59 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:39:59 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:39:59 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:39:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:40:00 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:00 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:00 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:40:38 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:38 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:38 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:40:41 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:41 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:41 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:42:23 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:42:23 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:42:23 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 38
+[29-Oct-2019 20:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:00 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:00 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:00 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:01 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:01 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:01 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:14 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:14 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:14 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:43:21 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:21 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:21 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:43:23 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:23 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:23 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:43:32 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:32 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:32 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:43:59 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:59 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:43:59 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:44:44 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:44:44 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:44:44 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:44:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:45:17 UTC] PHP Warning:  include(../include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:17 UTC] PHP Warning:  include(../include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:17 UTC] PHP Warning:  include(): Failed opening '../include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:45:18 UTC] PHP Warning:  include(../include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:18 UTC] PHP Warning:  include(../include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:18 UTC] PHP Warning:  include(): Failed opening '../include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:45:28 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:28 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:28 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:45:45 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:45 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:45 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:45:46 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:46 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:46 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
+[29-Oct-2019 20:45:46 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:46 UTC] PHP Warning:  include(include/functions.php): failed to open stream: No such file or directory in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:46 UTC] PHP Warning:  include(): Failed opening 'include/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 40
+[29-Oct-2019 20:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_order() in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/aseotalca/public_html/tienda/metodopago/webpay/tbk-normal.php on line 42
